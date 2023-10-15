@@ -1,6 +1,14 @@
-### Hi there 👋
 
-<!--
+## 👋Salutations! 
+
+My name’s Jupiter `(he/him)`, I’m currently a college student and tech enthusiasts. Welcome to my GitHub profile!
+
+[Code name]("https://e-z/bio/simply") `Simply`
+
+
+<!-- Ignore this github Readme Default LOL
+
+
 **jupitvq/jupitvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

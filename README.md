@@ -2,8 +2,9 @@
 ## 👋Salutations! 
 
 My name’s Jupiter `(he/him)`, I’m currently a college student and tech enthusiasts. Welcome to my GitHub profile!
+Average programmer. Average designer. 💤
 
-[Code name]("https://e-z/bio/simply") `Simply`
+[Code name]("https://e-z.bio/simply") `Simply`
 
 
 <!-- Ignore this github Readme Default LOL
